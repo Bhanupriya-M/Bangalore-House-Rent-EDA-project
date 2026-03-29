@@ -1,6 +1,7 @@
 A quick exploratory analysis of rental housing data to uncover key market trends and patterns.
-**Key Findings
-**
+
+Key Findings
+
 🧭 Facing Trends
 - East-facing homes dominate the market  
 - South-facing options are rare  
